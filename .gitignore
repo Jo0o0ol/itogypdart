@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+.vscode/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+pocketbase/pocketbase.exe
+pocketbase/pb_data/
