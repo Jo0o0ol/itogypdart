@@ -1,0 +1,11 @@
+{
+  "name": "BeanHouse",
+  "short_name": "BeanHouse",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f3ed",
+  "theme_color": "#7a4e32",
+  "description": "Информационная система кофейни",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
